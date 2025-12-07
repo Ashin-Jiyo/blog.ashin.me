@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://blog.ashin.me/</loc>
-    <lastmod>2025-12-07T22:41:43+03:00</lastmod>
+    <loc>https://blog.ashin.me/</loc>
+    <lastmod>2025-12-07T22:53:40+03:00</lastmod>
   </url><url>
-    <loc>http://blog.ashin.me/post/post/</loc>
-    <lastmod>2025-12-07T22:41:43+03:00</lastmod>
+    <loc>https://blog.ashin.me/post/post/</loc>
+    <lastmod>2025-12-07T22:53:40+03:00</lastmod>
   </url><url>
-    <loc>http://blog.ashin.me/post/</loc>
-    <lastmod>2025-12-07T22:41:43+03:00</lastmod>
+    <loc>https://blog.ashin.me/post/</loc>
+    <lastmod>2025-12-07T22:53:40+03:00</lastmod>
   </url><url>
-    <loc>http://blog.ashin.me/post/mypost/</loc>
-    <lastmod>2025-12-07T22:21:30+03:00</lastmod>
+    <loc>https://blog.ashin.me/post/mypost/</loc>
+    <lastmod>2025-12-07T22:25:07+03:00</lastmod>
   </url><url>
-    <loc>http://blog.ashin.me/categories/</loc>
+    <loc>https://blog.ashin.me/categories/</loc>
   </url><url>
-    <loc>http://blog.ashin.me/tags/</loc>
+    <loc>https://blog.ashin.me/tags/</loc>
   </url>
 </urlset>
